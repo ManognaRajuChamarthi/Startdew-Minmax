@@ -1,4 +1,3 @@
-import java.util.*;
 
 public class Crop{
 
@@ -6,7 +5,7 @@ public class Crop{
 
     //constructor
     public Crop(String name){
-        System.out.println("Hello I am a crop know as: " + name);
+        System.out.println(" fUCK YOU i AM " + name);
     }
     //methods
 
