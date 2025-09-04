@@ -5,7 +5,7 @@ public class Crop{
 
     //constructor
     public Crop(String name){
-        System.out.println(" fUCK YOU i AM " + name);
+        System.out.println(" Fuck YOU i AM " + name);
     }
     //methods
 
